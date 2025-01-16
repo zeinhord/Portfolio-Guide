@@ -5,14 +5,14 @@ Welcome to my portfolio! Here, I document a summary of my projects in the Data S
 ## 📚 Table of Contents
 
 - [Python](#python)
-- [R](#rstudio)
+- [R](#r)
 
 # Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 
-# R (Rstudio)
+# R
 
 | Project Link | Completion Date | Area | Project Description | 
 |---|---|---|---|
