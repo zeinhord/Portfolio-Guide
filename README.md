@@ -9,8 +9,10 @@ Welcome to my portfolio! Here, I document a summary of my projects in the Data S
 
 # Python
 
-| Project Link | Area | Project Description | Libraries |    
+| Project Link | Completion Date | Project Description | Libraries |    
 |---|---|---|---|
+| 🎲 [Board Games Popularity Prediction](https://github.com/zeinhord/python-projects/tree/f7cf109ba8b0676a2e6f29076a68089acd91d55d/board_games_popularity_prediction) | December 2024 | Build a predictive model for board games average rating based on selected features. It was my first try working with categorical variables as one of the selected features. Different models, techniques and tuning options were applied for the project. The predictive function created. | pandas, seaborn, matplotlib, scikit-learn, tensorflow, numpy, joblib, keras |
+| 🎮 [Video Games Sales Prediction](https://github.com/zeinhord/python-projects/tree/f7cf109ba8b0676a2e6f29076a68089acd91d55d/video_games_sales_prediction) | April 2024 | Build a predictive model for video games sales. It was my first try building predictive models. Different models, techniques and tuning options were applied for the project. | pandas, tensorflow, keras, numpy, seaborn, matplotlib |
 
 # R
 
