@@ -1,6 +1,6 @@
 # 🗺 Ivan's Portfolio
 
-Welcome to my Data Science portfolio! Here, I document a summary of my projects in the Data Science field. 
+Welcome to my portfolio! Here, I document a summary of my projects in the Data Science field. 
 
 ## 📚 Table of Contents
 
